@@ -1,0 +1,20 @@
+git init - Iniciar/criar o repositório
+EX: 
+criar pasta e utilizar o comando dentro dela
+pastaX/
+git bash: git init
+
+
+git add - Adicionar arquivos para o versionamento do git
+.
+.
+.
+
+
+git commit - Envio de informações de versionamento para o repositorio
+.
+.
+.
+
+git remote add - Relacionar arquivos ao repositorio do github (forma manual)
+git remote add origin link_do_repositorio

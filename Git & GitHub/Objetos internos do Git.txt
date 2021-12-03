@@ -1,0 +1,8 @@
+BLOBS: Um objeto Blob representa um objeto do tipo arquivo, com dados brutos imutáveis.
+
+
+TREES: A tree representa um diretório, contendo uma mistura de blobs e trees.
+
+
+COMMITS: Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando git commit para capturar o estado de um projeto naquele momento.
+

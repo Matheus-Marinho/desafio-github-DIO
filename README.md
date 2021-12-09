@@ -1,3 +1,3 @@
-Desafio de Projeto sobre Git/Github da DIO 
+Desafios Bootcamp Spread-Java
 
-Repositório criando para o desafio de projeto.
+Repositório criado para os desafios de projeto e de código.

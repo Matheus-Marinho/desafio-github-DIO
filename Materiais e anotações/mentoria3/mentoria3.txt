@@ -1,0 +1,5 @@
+Mentoria #3: Start coding - Java Essencials 1
+
+- Noções básicas de Java (Variaveis, operações e condicionais)
+
+
